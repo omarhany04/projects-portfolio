@@ -1,0 +1,39 @@
+{
+  "name": "omar-projects-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@react-three/fiber": "^8.17.10",
+    "framer-motion": "^11.15.0",
+    "react": "^18.2.0",
+    "react-countup": "^6.5.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0",
+    "react-intersection-observer": "^9.13.1",
+    "react-scripts": "5.0.1",
+    "react-type-animation": "^3.2.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="18" fill="#020617" />
+  <rect x="2" y="2" width="60" height="60" rx="16" stroke="url(#border)" stroke-opacity="0.9" />
+  <text
+    x="32"
+    y="39"
+    text-anchor="middle"
+    fill="url(#text)"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="700"
+    letter-spacing="2"
+  >
+    OH
+  </text>
+  <defs>
+    <linearGradient id="text" x1="10" y1="12" x2="56" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4" />
+      <stop offset="0.5" stop-color="#38BDF8" />
+      <stop offset="1" stop-color="#F97316" />
+    </linearGradient>
+    <linearGradient id="border" x1="4" y1="4" x2="60" y2="60" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6" />
+      <stop offset="1" stop-color="#38BDF8" />
+    </linearGradient>
+  </defs>
+</svg>
